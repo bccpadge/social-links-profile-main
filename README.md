@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor]()
-- Live Site URL: [Github Pages]()
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-social-links-profile-using-html-and-tailwind-css--PlJbMviTE)
+- Live Site URL: [Github Pages](https://bccpadge.github.io/social-links-profile-main/)
 
 ## My process
 
