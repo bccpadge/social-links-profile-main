@@ -695,11 +695,6 @@ video {
   background-color: hsl(75 94% 57% / var(--tw-bg-opacity));
 }
 
-.hover\:bg-purple:hover {
-  --tw-bg-opacity: 1;
-  background-color: hsl(267 100% 29% / var(--tw-bg-opacity));
-}
-
 .hover\:bg-red:hover {
   --tw-bg-opacity: 1;
   background-color: hsl(0 100% 50% / var(--tw-bg-opacity));
@@ -710,14 +705,14 @@ video {
   background-color: hsl(189 50% 61% / var(--tw-bg-opacity));
 }
 
+.hover\:bg-gold:hover {
+  --tw-bg-opacity: 1;
+  background-color: hsl(45 97% 50% / var(--tw-bg-opacity));
+}
+
 .hover\:text-off-black:hover {
   --tw-text-opacity: 1;
   color: hsl(0 0% 8% / var(--tw-text-opacity));
-}
-
-.hover\:text-white:hover {
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
 @media (min-width: 768px) {
