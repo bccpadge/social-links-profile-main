@@ -58,10 +58,8 @@ Don't be pixel perfect when building out your projects.
   <a href="https://github.com/bccpadge">
     <img src="https://img.shields.io/badge/Github-9757e6?style=for-the-badge&logo=github&logoColor=white">
  </a>
-  <a href="https://www.linkedin.com/in/rebecca-padgett23">
+  <a href="https://www.linkedin.com/in/rebeccapadgett121">
     <img src="https://img.shields.io/badge/Linkedin-004182?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://t.snapchat.com/bNUplk4b">
-    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white">
-  </a>
+
 </p>
